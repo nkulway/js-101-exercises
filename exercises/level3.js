@@ -23,10 +23,12 @@ return num + word;
 
 function lvl3exercise4 () {
   // Create a "hello world!" string. Return the length of the string
-
+let str = 'Hello World!'
+return str.length;
 }
 
 function lvl3exercise5 () {
   // Create a "hello world!" string. Return the index of the word "world".
-
+let str = ["hello world!"]
+return str[i]
 }
